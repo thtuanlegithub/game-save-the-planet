@@ -1,0 +1,11 @@
+C:\Users\thanh\source\repos\IT008_Game_Gun\IT008_Game_Gun\bin\Debug\IT008_Game_Gun.exe.config
+C:\Users\thanh\source\repos\IT008_Game_Gun\IT008_Game_Gun\bin\Debug\IT008_Game_Gun.exe
+C:\Users\thanh\source\repos\IT008_Game_Gun\IT008_Game_Gun\bin\Debug\IT008_Game_Gun.pdb
+C:\Users\thanh\source\repos\IT008_Game_Gun\IT008_Game_Gun\obj\Debug\IT008_Game_Gun.csproj.AssemblyReference.cache
+C:\Users\thanh\source\repos\IT008_Game_Gun\IT008_Game_Gun\obj\Debug\IT008_Game_Gun.csproj.SuggestedBindingRedirects.cache
+C:\Users\thanh\source\repos\IT008_Game_Gun\IT008_Game_Gun\obj\Debug\IT008_Game_Gun.Form1.resources
+C:\Users\thanh\source\repos\IT008_Game_Gun\IT008_Game_Gun\obj\Debug\IT008_Game_Gun.Properties.Resources.resources
+C:\Users\thanh\source\repos\IT008_Game_Gun\IT008_Game_Gun\obj\Debug\IT008_Game_Gun.csproj.GenerateResource.cache
+C:\Users\thanh\source\repos\IT008_Game_Gun\IT008_Game_Gun\obj\Debug\IT008_Game_Gun.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\IT008_Game_Gun\IT008_Game_Gun\obj\Debug\IT008_Game_Gun.exe
+C:\Users\thanh\source\repos\IT008_Game_Gun\IT008_Game_Gun\obj\Debug\IT008_Game_Gun.pdb
