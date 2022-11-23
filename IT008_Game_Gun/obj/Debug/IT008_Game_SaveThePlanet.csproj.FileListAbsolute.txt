@@ -20,3 +20,7 @@ C:\Users\thanh\source\repos\IT008_Game_SaveThePlanet\IT008_Game_Gun\obj\Debug\IT
 C:\Users\thanh\source\repos\IT008_Game_SaveThePlanet\IT008_Game_Gun\obj\Debug\IT008_Game_SaveThePlanet.csproj.CoreCompileInputs.cache
 C:\Users\thanh\source\repos\IT008_Game_SaveThePlanet\IT008_Game_Gun\obj\Debug\IT008_Game_SaveThePlanet.exe
 C:\Users\thanh\source\repos\IT008_Game_SaveThePlanet\IT008_Game_Gun\obj\Debug\IT008_Game_SaveThePlanet.pdb
+C:\Users\thanh\source\repos\IT008_Game_SaveThePlanet\IT008_Game_Gun\obj\Debug\IT008_Game_SaveThePlanet.MenuForm.resources
+C:\Users\thanh\source\repos\IT008_Game_SaveThePlanet\IT008_Game_Gun\obj\Debug\IT008_Game_SaveThePlanet.ModeForm.resources
+C:\Users\thanh\source\repos\IT008_Game_SaveThePlanet\IT008_Game_Gun\obj\Debug\IT008_Game_SaveThePlanet.HighestScoreForm.resources
+C:\Users\thanh\source\repos\IT008_Game_SaveThePlanet\IT008_Game_Gun\obj\Debug\IT008_Game_SaveThePlanet.HelpForm.resources

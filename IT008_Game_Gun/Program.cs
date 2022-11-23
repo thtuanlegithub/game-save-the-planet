@@ -6,6 +6,7 @@ using System.Windows.Forms;
 
 namespace IT008_Game_SaveThePlanet
 {
+    
     internal static class Program
     {
         /// <summary>
@@ -16,7 +17,8 @@ namespace IT008_Game_SaveThePlanet
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            //Application.Run(new Form1());
+            Application.Run(new MenuForm());
         }
     }
 }

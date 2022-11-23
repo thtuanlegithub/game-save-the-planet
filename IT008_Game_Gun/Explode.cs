@@ -20,5 +20,9 @@ namespace IT008_Game_SaveThePlanet
         {
             g.DrawImage(bitmap, location.X, location.Y, bitmap.Width, bitmap.Height);
         }
+        public string toString()
+        {
+            return location.X.ToString() + "/" + location.Y.ToString();
+        }
     }
 }

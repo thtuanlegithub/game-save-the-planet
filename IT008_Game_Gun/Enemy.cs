@@ -11,6 +11,7 @@ namespace IT008_Game_SaveThePlanet
     public class Enemy
     {
         public Bitmap bitmap = new Bitmap("jet2.png");
+       
         public Point location;
         public Enemy(Point location)
         {
@@ -28,6 +29,10 @@ namespace IT008_Game_SaveThePlanet
         public void Up()
         {
             location.Y -= 5;
+        }
+        public string toString()
+        {
+            return location.X.ToString() + "/" + location.Y.ToString();
         }
     }
 }

@@ -32,5 +32,9 @@ namespace IT008_Game_SaveThePlanet
         {
             location.Y -= 5;
         }
+        public string toString()
+        {
+            return location.X.ToString() + "/" + location.Y.ToString();
+        }
     }
 }
