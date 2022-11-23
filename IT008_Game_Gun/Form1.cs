@@ -139,14 +139,14 @@ namespace IT008_Game_SaveThePlanet
             int x1TT, x2TT, y1TT, y2TT;
 
             x1PT = player.location.X;
-            x2PT = player.location.X + player.bitmap.Width;
+            x2PT = player.location.X + player.bitmap.Width/2;
             y1PT = player.location.Y;
-            y2PT = player.location.Y + player.bitmap.Height;
+            y2PT = player.location.Y + player.bitmap.Height/2;
 
             x1TT = enemy.location.X;
-            x2TT = enemy.location.X + enemy.bitmap.Width;
+            x2TT = enemy.location.X + enemy.bitmap.Width/2;
             y1TT = enemy.location.Y;
-            y2TT = enemy.location.Y + enemy.bitmap.Height;
+            y2TT = enemy.location.Y + enemy.bitmap.Height/2;
             if (x1PT < x2TT && x1TT < x2PT && y1PT < y2TT && y1TT < y2PT)
                 res = true;
 
